@@ -1,0 +1,17 @@
+{
+  "name": "Quotes",
+  "displayName": "Quotes",
+  "version": "1.0.0",
+  "expo": {
+    "name": "Quotes",
+    "slug": "Quotes",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.gibstech.quotes",
+      "versionCode": 1
+    }
+  }
+}
